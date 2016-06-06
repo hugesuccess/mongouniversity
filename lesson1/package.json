@@ -1,0 +1,22 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "Homework from Mongo University MEAN stack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugesuccess/mongouniversity.git"
+  },
+  "author": "HugeSuccess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugesuccess/mongouniversity/issues"
+  },
+  "homepage": "https://github.com/hugesuccess/mongouniversity#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
