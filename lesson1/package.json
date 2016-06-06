@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hugesuccess/mongouniversity#readme",
   "dependencies": {
+    "mongodb": "^2.1.21",
     "underscore": "^1.8.3"
   }
 }
